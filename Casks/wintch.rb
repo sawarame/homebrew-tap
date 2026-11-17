@@ -1,6 +1,6 @@
 cask "wintch" do
-  version "0.2.5"
-  sha256 "1803fb27d5ae3e61d86519b99e84e9c753589d977218d566de852a13ffb92678"
+  version "0.2.6"
+  sha256 "c989530481e91ce354a22048c952301a2c378ad2a183d353c6260610165a6a81"
   url "https://github.com/sawarame/Wintch/releases/download/v#{version}/Wintch-v#{version}.zip"
   name "Wintch"
   desc "Simple and lightweight window switcher for macOS"
