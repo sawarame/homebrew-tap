@@ -1,6 +1,6 @@
 cask "prefsnap" do
-  version "0.1.2"
-  sha256 "8b24f4ff617088da161c91cd3e32ea6be4ec5e93c81acc81d7b632f9fd7e8176"
+  version "0.1.3"
+  sha256 "4d12947bd8dc15ec7260c0efbe5072a3609ea19ff135344b26a4894e18353f20"
   url "https://github.com/sawarame/PrefSnap/releases/download/v#{version}/PrefSnap-v#{version}.zip"
   name "PrefSnap"
   desc "Export, diff, import, and roll back macOS preferences as Git-friendly JSON"
